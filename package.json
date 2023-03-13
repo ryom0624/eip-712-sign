@@ -23,6 +23,7 @@
     "@types/node": "^17.0.40",
     "chai": "^4.3.6",
     "dotenv": "^16.0.1",
+    "eip712-codegen": "^4.0.4",
     "ethereum-waffle": "^3.4.4",
     "hardhat": "^2.9.7",
     "hardhat-contract-sizer": "^2.6.1",
